@@ -28,7 +28,9 @@ This repository contains Python code for training a neural network model using s
    ```bash
    pip install numpy pandas matplotlib
 3. You can download the MNIST training data [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/download?datasetVersionNumber=2)
-   -Unzip the folder and extract the mnsit_train.csv file in the folder containing the script.
+
+- Unzip the folder and extract the mnsit_train.csv file in the folder containing the script.
+
 ## Usage
 
 1. Clone this repository to your local machine.
