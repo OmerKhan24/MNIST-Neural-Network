@@ -7,9 +7,10 @@ This repository contains Python code for training a neural network model using s
 1. [Installation](#installation)
 2. [Usage](#usage)
    - [Training](#training-the-neural-network)
-   - [Testing](#teting-the-model)
+   - [Testing](#testing-the-model)
 3. [Code Overview](#code-overview)
 4. [License](#license)
+5. [Attribution](#attribution)
 
 ## Installation
 
@@ -52,6 +53,11 @@ The main components of the code include:
 - Forward Propagation: Performing forward propagation to compute the output of the neural network.
 - Back Propagation: Implementing backpropagation to calculate gradients and update the model parameters.
 - Testing: Functions for testing the trained model on custom data or specific examples from the dataset.
+
+## Attribution
+
+- The MNIST dataset used in this project is sourced from [MNIST Database](http://yann.lecun.com/exdb/mnist/).
+- The Python modules used in this project include [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), and [matplotlib](https://matplotlib.org/).
 
 ## License
 
